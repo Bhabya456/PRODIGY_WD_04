@@ -20,7 +20,7 @@ nav{
     display:flex;
     justify-content:space-between;
     align-items:center;
-    padding:20px 8%;
+    padding:15px 8%;
     background:#1f2711;
     z-index:1000;
 }
@@ -155,6 +155,7 @@ nav ul li a:hover{
     margin-bottom:40px;
     color:#ffffff;
 }
+
 
 /* About */
 .section p{
